@@ -56,7 +56,7 @@
                          <div class="input-group mb-3">
                              <span class="input-group-text" id="basic-addon1">Source:*</span>
                              <select name="s" id="inputState" class="form-control">
-                                 <option selected> ${ele.f_name} </option>
+                                 <option selected> ${ele.source} </option>
                                  <option>Andhra Pradesh</option>
                                  <option>Arunachal Pradesh</option>
                                  <option>Assam(Dispur) </option>
